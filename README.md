@@ -24,6 +24,7 @@
 </p>
 
 > ⚠️ **Acknowledgment**
+> 
 > The author used *ChatGPT (OpenAI, GPT-5)* as a tool to support text editing, data analysis, and documentation generation.  
 > The final interpretation, validation, and presentation remain the author's sole responsibility.
 
