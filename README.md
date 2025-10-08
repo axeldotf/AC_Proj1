@@ -23,9 +23,9 @@
   </a>
 </p>
 
-> ⚠️ **Educational Use Only**  
-> This project is intended exclusively for **academic and research purposes**.  
-> Commercial use of the code or results requires explicit authorization.
+> ⚠️ **Acknowledgment**
+> The author used *ChatGPT (OpenAI, GPT-5)* as a tool to support text editing, data analysis, and documentation generation.  
+> The final interpretation, validation, and presentation remain the author's sole responsibility.
 
 ---
 
